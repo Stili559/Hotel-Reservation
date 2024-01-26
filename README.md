@@ -2,4 +2,4 @@
 
 Member #1: Stefcho Offerer.
 Member #2: Stili Admin.
-Member #3: Niko Verifier.
+Member #3: Niko Questioner.
